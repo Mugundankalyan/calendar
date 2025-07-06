@@ -1,4 +1,4 @@
-# calendar
+# Calendar
 
 A simple PHP + JavaScript web application for managing and visualizing course schedules on a calendar. It allows users to add, edit, and delete course events, with each event specifying the course title, instructor, start/end dates, and start/end times. The application provides an interactive monthly calendar view and supports CRUD operations for events.
 
@@ -69,15 +69,3 @@ To see a running example, clone the repo and follow the installation instruction
 - `calendar.js` – Front-end logic for rendering the calendar, handling modals, and updating the clock.
 - `connection.php` – MySQL connection details.
 - `style.css` – Styling for the UI.
-
-## Customization
-
-You can adapt this project by changing the database schema, extending event fields, or redesigning the front-end as needed.
-
-## License
-
-This project currently does not have a license. Please add one if you intend to distribute or reuse the code.
-
-## Author
-
-[github.com/Mugundankalyan](https://github.com/Mugundankalyan)
